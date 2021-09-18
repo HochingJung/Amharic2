@@ -21,6 +21,8 @@ https://fbreader.org/win32
 https://fbreader.org/files/win32/FBReaderSetup-0.12.10.exe
 
 2. Ebook Viewer for Android
+https://play.google.com/store/apps/details?id=com.flyersoft.moonreader&hl=en&gl=US
+or
 https://fbreader.org/files/android/FBReaderJ_ice-cream-sandwich-2.8.13.2.apk
 
 3. eBook Viewer for Mac
