@@ -1,1 +1,1 @@
-# Amharic_Commentary_Matthew_Henry Bible
+Commentary_Matthew_Henry Bible
