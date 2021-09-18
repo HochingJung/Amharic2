@@ -1,7 +1,11 @@
-# Amharic_Commentary_Matthew_Henry
-Matthew Henry whole Commentary Amaharic
+# Amharic_Commentary_Matthew_Henry Bible
+Matthew Henry whole Commentary Amaharic Bible
+ማቲው ሄንሪ ሙሉ ሐተታ አማሃሪክ መጽሐፍ ቅዱስ
 
 E-book Viewer
+0-ePub Reader for Google Chrome
+https://chrome.google.com/webstore/detail/epub-reader-for-google-ch/fnplkbhndemgbopkkpmpnfklkhphpneg?hl=en
+
 1. የኢ -መጽሐፍ መመልከቻ ለዊንዶውስ ኮምፒተር
 https://fbreader.org/files/win32/FBReaderSetup-0.12.10.exe
 
