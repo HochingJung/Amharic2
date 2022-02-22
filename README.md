@@ -1,1 +1,1 @@
-amharic
+00_Amharic_Matthew_Henry_Commentary_All
